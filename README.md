@@ -7,6 +7,6 @@
 
 ## Automatic build
 Simple leave a terminal running
-```bash
+```
 ./automake.sh
 ```
